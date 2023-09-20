@@ -17,9 +17,11 @@
                 Jangan ragu untuk menghubungi kami jika Anda membutuhkan bantuan dalam 
                 memilih atau memperbaiki perangkat IT Anda. Kami siap membantu Anda setiap saat. 
                 Terima kasih telah memilih layanan konsultasi IT kami!
+                <br><br>
+                Konsultasi Gratisss!!!
                 <br>
 
-                <a href="" class="btn btn-primary mt-5">Hubungi Kami</a>
+                <a href="https://wa.link/spn88p" class="btn btn-primary mt-5">Hubungi Kami</a>
             </div>
 
     </div>
