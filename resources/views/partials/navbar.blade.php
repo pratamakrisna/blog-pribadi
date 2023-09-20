@@ -4,9 +4,10 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link {{ ($title == "Home") ? 'active' : '' }} " href="/">Home</a></li>
-          <li><a class="nav-link {{ ($title == "Jasa") ? 'active' : '' }} " href="/jasa">Jasa</a></li>
+          <li><a href="/cv.pdf" download>📥 Download my CV</a></li>
+          {{-- <li><a class="nav-link {{ ($title == "Jasa") ? 'active' : '' }} " href="/jasa">Jasa</a></li>
           <li><a class="nav-link {{ ($title == "Kursus") ? 'active' : '' }} " href="/kursus" >Kursus</a></li>
-          <li><a class="nav-link {{ ($title == "Konsultasi") ? 'active' : '' }} " href="/konsultasi" >Konsultasi</a></li>
+          <li><a class="nav-link {{ ($title == "Konsultasi") ? 'active' : '' }} " href="/konsultasi" >Konsultasi</a></li> --}}
             {{-- <div class="dropdown">
               <button href="#" class="btn dropdown-toggle btn-outline-dark m-3 "  type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  >
               Asisten
