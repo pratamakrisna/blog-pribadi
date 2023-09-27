@@ -1,16 +1,15 @@
 <!-- ======= Footer ======= -->
     <footer id="footer">
         <div class="container">
-          <h3>Krisna Aditya Pratama</h3>
-          <p>Ikuti saya disosmed</p>
-          <div class="social-links">
-            <a href="https://twitter.com/Bangkrisna18" class="twitter"><i class="bx bxl-twitter"></i></a>
-            <a href="https://www.facebook.com/krisna.a.pratama.9699/" class="facebook"><i class="bx bxl-facebook"></i></a>
-            <a href="https://www.instagram.com/bangkrisna_/" class="instagram"><i class="bx bxl-instagram"></i></a>
-            <a href="https://www.linkedin.com/in/krisna-aditya-pratama-030b2b264/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-          </div>
+          <h3>Greate Service Center</h3>
+          <h5 class=" mb-3 " >Layanan Pengaduan <br><br>
+            <a href="https://wa.link/o2psrk" target="_blank" class="btn btn-danger ">Laporkan</a>
+          </h5>
+          <a href="https://wa.me/6289675013000" target="_blank" class="btn btn-success btn-whatsapp mb-5 ">
+            <i class="fab fa-whatsapp"></i> WhatsApp
+          </a>                  
           <div class="copyright">
-            &copy; Copyright <strong><span>Bangkris</span> 2023</strong>
+            &copy; Copyright <strong><span>K.Corp</span> 2023</strong>
           </div>
         </div>
       </footer>

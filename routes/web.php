@@ -16,7 +16,6 @@ use Illuminate\Support\Facades\Route;
 // ROUTES HOME
 
 Route::get('/', function () { return view('admin.home', [ "title" => "Home" ]); });
-Route::get('/lainnya', function () { return view('admin.lainnya', [ "title" => "Lainnya" ]); });
 Route::get('/jasa', function () { return view('admin.jasa', [ "title" => "Jasa" ]); });
 Route::get('/kursus', function () { return view('admin.kursus', [ "title" => "Kursus" ]);; });
 Route::get('/konsultasi', function () { return view('admin.konsultasi', [ "title" => "Konsultasi" ]);; });

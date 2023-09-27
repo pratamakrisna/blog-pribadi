@@ -18,7 +18,7 @@
                         </p>
                         <p class=" mt-5 " >
                             <del>Rp.200.000</del><br>
-                            Rp.120.000
+                            Rp.160.000
                         </p>
                         <a href="https://wa.link/rch956" class="btn btn-sm btn-primary p-2 ">Mulai Kursus</a>
                     </div>
@@ -37,7 +37,7 @@
                         </p>
                         <p class=" mt-5 " >
                             <del>Rp.200.000</del><br>
-                            Rp.120.000
+                            Rp.160.000
                         </p>
                         <a href="https://wa.link/rch956" class="btn btn-sm btn-primary p-2 ">Mulai Kursus</a>
                     </div>
@@ -56,7 +56,7 @@
                         </p>
                         <p class=" mt-5 " >
                             <del>Rp.200.000</del><br>
-                            Rp.120.000
+                            Rp.160.000
                         </p>
                         <a href="https://wa.link/rch956" class="btn btn-sm btn-primary p-2 ">Mulai Kursus</a>
                     </div>
@@ -75,7 +75,7 @@
                         </p>
                         <p class=" mt-5 " >
                             <del>Rp.300.000</del><br>
-                            Rp.120.000
+                            Rp.180.000
                         </p>
                         <a href="https://wa.link/rch956" class="btn btn-sm btn-primary p-2 ">Mulai Kursus</a>
                     </div>

@@ -9,7 +9,7 @@
             {{-- col 1 --}}
                 <div class="col">
                 <div class="card border-primary h-100">
-                    <div class="card-header bg-primary text-light border-primary">REVISI</div>
+                    <div class="card-header text-light border-primary" style=" background-color: #1d284b;" >REVISI</div>
                     <div class="card-body ">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">Penomoran Halaman</li>
@@ -19,14 +19,14 @@
                         <p class=" mt-5 " >
                             Rp.15.000-30.000
                         </p>
-                    <a href="https://wa.link/438bir" class="btn btn-primary m-3 ">Pesan</a> 
+                    <a href="https://wa.link/438bir" class="btn btn-primary m-3 "  >Pesan</a> 
                 </div>
                 </div>
                 </div>
             {{-- col 2 --}}
             <div class="col">
                 <div class="card border-primary h-100">
-                <div class="card-header bg-primary text-light border-primary">INPUT DATA</div>
+                <div class="card-header text-light border-primary" style=" background-color: #1d284b;" >INPUT DATA</div>
                 <div class="card-body ">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">Microsoft Word</li>
@@ -43,7 +43,7 @@
             {{-- col 3 --}}
             <div class="col">
                 <div class="card border-primary h-100">
-                <div class="card-header bg-primary text-light border-primary">JOKI</div>
+                <div class="card-header text-light border-primary" style=" background-color: #1d284b;" >JOKI</div>
                 <div class="card-body ">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">Makalah</li>
@@ -51,7 +51,7 @@
                             <li class="list-group-item">Internet OF Things</li>
                         </ul>
                         <p class=" mt-5 " >
-                            Rp.20.000-150.000
+                            Rp.20.000-200.000
                         </p>
                     <a href="https://wa.link/z54w7r" class="btn btn-primary m-3 ">Pesan</a> 
                 </div>
@@ -60,7 +60,7 @@
             {{-- col 4 --}}
             <div class="col">
                 <div class="card border-primary h-100">
-                <div class="card-header bg-primary text-light border-primary">WEBSITE</div>
+                <div class="card-header text-light border-primary" style=" background-color: #1d284b;" >WEBSITE</div>
                 <div class="card-body ">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">Pembuatan CV</li>
@@ -73,7 +73,7 @@
                         <p>- FORMAT DOMAIN -</p>
                         <p class=" text-success " >namamu.vercel.app</p>
                         <p class=" mt-5 " >
-                            Rp.70.000-200.000
+                            Rp.70.000-300.000
                         </p>
                     <a href="https://wa.link/keq51j" class="btn btn-primary m-3 ">Pesan</a> 
                 </div>
@@ -82,7 +82,7 @@
             {{-- col 5 --}}
             <div class="col">
                 <div class="card border-primary h-100">
-                <div class="card-header bg-primary text-light border-primary">VIDIO</div>
+                <div class="card-header text-light border-primary" style=" background-color: #1d284b;" >VIDIO</div>
                 <div class="card-body ">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">Subtitle</li>

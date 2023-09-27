@@ -2,170 +2,63 @@
 
 @section('container')
 
-    <section id="hero" class="d-flex flex-column justify-content-center align-items-center"></section>
-      <!-- ======= My & Family Section ======= -->
-      <section id="about" class="about">
-        <div class="container">
-          <div class="section-title">
-            <!-- ======= Hero Section ======= -->
-            <h2><strong>Krisna Aditya Pratama</strong></h2>
-            <p>
-              Nama saya Krisna Aditya Pratama, lahir pada tanggal 18 Oktober 2002 di Pulau Midai. 
-              Pulau Midai terletak di Kabupaten Natuna, Provinsi Kepulauan Riau. 
-              Pulau kecil yang dikelilingi lautan dengan seribu kenangan
-               
-            </p>
-          </div>
+    <section id="" class="d-flex flex-column justify-content-center align-items-center"></section>
+    <main class=" container " >
+      <h3 class=" mb-3 " >Selamat Datang di Greate Service Center!</h3>
+      <div class="lg mb-4 ">
+        <span class="letter-g">G</span>
+      </div>
+      <p>
+        Great Service Center adalah sebuah toko yang menyediakan berbagai macam layanan 
+        jasa, kursus, dan konsultasi yang dapat diakses secara online. Website ini didesain 
+        dengan tampilan yang menarik dan mudah digunakan serta memiliki fitur-fitur yang lengkap 
+        untuk memudahkan pelanggan dalam memilih layanan yang diinginkan. Pelanggan dapat memilih 
+        layanan yang sesuai dengan kebutuhan mereka dan melakukan pemesanan secara online. 
+        Great Service Center juga menyediakan tenaga pengajar atau konsultan yang berkualitas 
+        dan berpengalaman dalam bidangnya masing-masing. Pembayaran dapat dilakukan secara tunai 
+        atau non-tunai seperti transfer bank atau dana dll. Selain itu, website ini juga memiliki
+        kebijakan pembatalan untuk pelanggan yang tidak dapat hadir pada jadwal yang telah disepakati. 
+        Dengan segala spesifikasi dan layanan yang ditawarkan, Great Service Center siap memberikan pelayanan
+        terbaik untuk memenuhi kebutuhan pelanggan secara online.
+      </p>
 
-          <div class="row content">
-            <div class="col-lg-5 ">
-              <img src="assets/img/about.jpg" class=" img-fluid " style="height: 350px;" alt="" />
-            </div>
-            <div class="col-lg-6 pt-4 pt-lg-0">
-              <ul>
-                <li>
-                  <i class="ri-check-double-line"></i>Nama : Krisna Aditya
-                  Pratama
-                </li>
-                <li>
-                  <i class="ri-check-double-line"></i>Lahir : 18 Oktober 2002
-                </li>
-                <li>
-                  <i class="ri-check-double-line"></i>Sekolah Tinggi : Amikom
-                  Yogyakarta
-                </li>
-                <li>
-                  <i class="ri-check-double-line"></i>Kota : Indonesia,
-                  Yogyakarta
-                </li>
-                <li>
-                  <i class="ri-check-double-line"></i>Email :
-                  krisnaadityapratama@students.amikom.ac.id
-                </li>
-                <li>
-                  <i class="ri-check-double-line"></i>Github : bangkris18
-                </li>
-              </ul>
-              <br />
-              <a href="/lainnya" class="btn-learn-more">Lihat Lanjutan</a>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End My & Family Section -->
+      <div class="rules mt-5 mb-5 ">
+        <h3>Aturan Toko</h3>
+        <ol>
+          <li>Pelanggan harus membaca deskripsi layanan dengan teliti sebelum melakukan pemesanan.</li>
+          <li>Pelanggan harus memberikan informasi yang akurat dan lengkap saat melakukan pemesanan.</li>
+          <li>Pelanggan harus melakukan pembayaran sesuai dengan instruksi yang diberikan oleh toko.</li>
+          <li>Toko akan memberikan konfirmasi pemesanan dan informasi pengiriman kepada pelanggan melalui email atau pesan teks.</li>
+          <li>Pelanggan harus memeriksa barang yang diterima setelah pengiriman dan memberikan konfirmasi penerimaan.</li>
+          <li>Jika terdapat masalah atau keluhan, pelanggan dapat menghubungi toko melalui layanan pengaduan dibawah</li>
+          <li>Toko berhak membatalkan pemesanan jika terdapat informasi yang tidak akurat atau tidak lengkap dari pelanggan.</li>
+          <li>Toko berhak menolak pemesanan jika stok tidak tersedia atau jika terdapat kesalahan harga atau deskripsi layanan pada website.</li>
+        </ol>
+      </div>
 
-      <!-- ======= Features Section ======= -->
-      <section id="features" class="features">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-4 col-md-6 icon-box">
-              <div class="icon"><i class="bi bi-laptop"></i></div>
-              <h4 class="title"><a href="">Pengembang Web</a></h4>
-              <p class="description">
-                Saya adalah Krisna, seorang yang menguasai bahasa pemrograman
-                C++, HTML, CSS, PHP, dan JavaScript dengan pengalaman dalam
-                menggunakan framework Laravel.
-              </p>
+      <div class="payment-methods mb-5 ">
+        <h3>Cara Pembayaran</h3>
+        <p>Kami menerima pembayaran melalui:</p>
+        <ul class="list-unstyled">
+          <li>
+            <div class="d-flex align-items-center mb-3 ">
+              <img src="assets/img/dana.png" alt="Logo Dana" class="img-fluid mr-3" style="max-width: 100px;">
+              <span class="font-weight-bold"></span>
             </div>
-            <div class="col-lg-4 col-md-6 icon-box">
-              <div class="icon"><i class="bi bi-bar-chart"></i></div>
-              <h4 class="title"><a href="">Data Analyst</a></h4>
-              <p class="description">
-                Saya adalah seorang junior data scientist yang memiliki
-                antusiasme dan minat dalam menganalisis data untuk mengungkap
-                wawasan berharga.
-              </p>
+          </li>
+          <li>
+            <div class="d-flex align-items-center">
+              <img src="assets/img/bank.png" alt="Logo Bank" class="img-fluid mr-3" style="max-width: 80px;">
+              <span class="font-weight-bold"></span>
             </div>
-            <div class="col-lg-4 col-md-6 icon-box">
-              <div class="icon"><i class="bi bi-lightbulb"></i></div>
-              <h4 class="title"><a href="">Pengembang IOT</a></h4>
-              <p class="description">
-                Saya adalah seorang IoT developer dengan beberapa pengalaman
-                lomba, yang berdedikasi dalam mengembangkan solusi kreatif dan
-                inovatif melalui teknologi Internet of Things (IoT).
-              </p>
-            </div>
-            <div class="col-lg-4 col-md-6 icon-box">
-              <div class="icon"><i class="bi bi-app-indicator"></i></div>
-              <h4 class="title"><a href="">Hardware Software</a></h4>
-              <p class="description">
-                Saya adalah seorang junior hardware software komputer yang
-                memiliki minat dan pengetahuan dalam merancang, membangun, dan
-                mengintegrasikan perangkat keras dan perangkat lunak komputer.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End Features Section -->
-
-      <!-- ======= Recent Photos Section ======= -->
-      <section id="resume" class="resume">
-        <div class="container">
-          <div class="section-title">
-            <h2>Pendidikan</h2>
-          </div>
-
-          <div class="row">
-            <div class="col-lg-6" data-aos="fade-up">
-              <h3 class="resume-title">Proses</h3>
-              <div class="resume-item">
-                <h4>Sekolah Tinggi Menengah</h4>
-                <h5>2017 - 2020</h5>
-                <p><em>SMAN 1 Midai</em></p>
-                <p>
-                  Saya bersekolah di SMAN 1 Midai dengan mengambil jurusan IPA, 
-                  di mana saya belajar berbagai konsep ilmiah dan keterampilan yang berkaitan 
-                  dengan bidang ilmu pengetahuan alam. Selama masa di sekolah tersebut, 
-                  saya terlibat dalam berbagai kegiatan akademis dan ekstrakurikuler yang membantu 
-                  dalam pengembangan pengetahuan dan keterampilan saya di berbagai bidang.
-                </p>
-              </div>
-
-              <div class="resume-item">
-                <h4>Sarjana Informatika</h4>
-                <h5>2020 - Now</h5>
-                <p><em>Universitas Amikom Yogyakarta</em></p>
-                <p>
-                  Saat ini, saya sedang menjalani kuliah di Universitas AMIKOM Yogyakarta 
-                  dengan jurusan informatika. Di sana, saya mendalami berbagai aspek ilmu komputer, 
-                  termasuk pemrograman, pengembangan perangkat lunak, serta analisis data. 
-                  Proses kuliah ini memberi saya kesempatan untuk eksplorasi lebih dalam 
-                  dalam dunia teknologi dan meningkatkan pemahaman saya tentang dunia 
-                  digital yang terus berkembang.
-                </p>
-              </div>
-            </div>
-
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <h3 class="resume-title">Pengalaman</h3>
-              <div class="resume-item">
-                <h4>Pengembang Internet Of Things</h4>
-                <h5>2020 - Now</h5>
-                <p><em>Universitas Amikom Yogyakarta</em></p>
-                <ul>
-                  <li>Rumah Pintar</li>
-                  <li>Sistem Motor Pintar</li>
-                  <li>Penyiraman tanaman otomatis (Smart Agriculture)</li>
-                  <li>Pemantauan ruang tumbuh jamur</li>
-                  <li>dan beberapa lainnya</li>
-                </ul>
-              </div>
-              <div class="resume-item">
-                <h4>Pengembang Website</h4>
-                <h5>2020 - Now</h5>
-                <p><em>Universitas Amikom Yogyakarta</em></p>
-                <ul>
-                  <li>
-                    Pemantauan tanaman jamur dilakukan dengan tambahan web
-                    fitur untuk mempermudah pemantauan.
-                  </li>
-                  <li>Website Laundry</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End Recent Photos Section -->
+          </li>
+        </ul>
+        <p>Untuk pembayaran dengan Dana, silakan kirimkan pembayaran ke nomor akun kami yang terdaftar di aplikasi Dana. 
+          Untuk pembayaran dengan transfer bank, silakan transfer ke rekening kami. Adapun untuk nomer rekening dan 
+          nomer dana akan kami kirim setelah Deal atau Acc dari kedua belah pihak.
+        </p>
+        <p>Setelah melakukan pembayaran, silakan konfirmasi pembayaran Anda melalui nomor telepon yang tertera di website kami. Setelah pembayaran Anda terkonfirmasi, kami akan segera memproses pesanan Anda.</p>
+      </div>
+      
+    </main>
 @endsection
